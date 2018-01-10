@@ -1600,3 +1600,253 @@ LogInit: Object subsystem initialized
 [2018.01.10-16.41.03:461][198]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
 [2018.01.10-16.41.03:544][198]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
 [2018.01.10-16.41.54:804][223]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-16.49.58:542][ 42]LogSavePackage: Save=602.63ms
+[2018.01.10-16.49.58:542][ 42]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/PlayerMovementTestLevel_Auto8834A2B9F442F2F3296B81DAFFD3BDD29.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto8.umap'
+[2018.01.10-16.49.58:547][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto8.umap
+[2018.01.10-16.49.58:552][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel' took 0.688
+[2018.01.10-16.49.58:552][ 42]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.688
+[2018.01.10-16.49.58:555][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.01.10-16.49.58:583][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.01.10-16.49.58:583][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.01.10-16.49.58:763][ 42]LogSavePackage: Save=162.27ms
+[2018.01.10-16.49.58:763][ 42]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/SideScrollerCharacter_Auto809D2F0CB467022C262F8449B55E8ECB7.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto8.uasset'
+[2018.01.10-16.49.58:772][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto8.uasset
+[2018.01.10-16.49.58:773][ 42]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/IceGround] ([1] browsable assets)...
+[2018.01.10-16.49.58:799][ 42]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/IceGround.IceGround]
+[2018.01.10-16.49.58:799][ 42]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/IceGround]
+[2018.01.10-16.49.58:829][ 42]LogSavePackage: Save=24.57ms
+[2018.01.10-16.49.58:829][ 42]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/IceGround_Auto8243EA18C4CD0917AB31CCD9532DC8301.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/IceGround_Auto8.uasset'
+[2018.01.10-16.49.58:834][ 42]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/IceGround_Auto8.uasset
+[2018.01.10-16.49.58:834][ 42]LogFileHelpers: Auto-saving content packages took 0.280
+[2018.01.10-16.50.43:053][175]BlueprintLog: New page: Compile IceGround
+[2018.01.10-16.50.46:368][277]LogEditorViewport: Clicking on Actor (LMB): IceGround_C (IceGround)
+[2018.01.10-16.51.12:526][142]LogPackageName: SearchForPackageOnDisk took   0.000s, but failed to resolve /Game/SideScrollerBP/Blueprints/Grease.
+[2018.01.10-16.52.11:236][477]BlueprintLog: New page: Compile Grease
+[2018.01.10-16.53.39:622][975]BlueprintLog: New page: Compile Grease
+[2018.01.10-16.54.27:255][163]BlueprintLog: New page: Compile IceGround
+[2018.01.10-16.54.42:951][771]BlueprintLog: New page: Compile IceGround
+[2018.01.10-16.57.24:204][270]LogBlueprint: Warning: [Compiler ] Pasted node  CustomEvent   conflicted with  On Component Begin Overlap (Box)  and was replaced as a Custom Event!
+[2018.01.10-16.59.12:030][454]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-16.59.29:199][ 66]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-16.59.29:300][ 66]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-16.59.29:300][ 66]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-16.59.29:300][ 66]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 6:59:29 AM)
+[2018.01.10-16.59.29:301][ 66]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-16.59.29:328][ 66]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027403s)
+[2018.01.10-16.59.29:330][ 66]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-16.59.29:330][ 66]LogPlayLevel: PIE: World Init took: (0.001527s)
+[2018.01.10-16.59.29:330][ 66]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.029426s)
+[2018.01.10-16.59.29:405][ 66]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-16.59.29:595][ 66]LogInit: FAudioDevice initialized.
+[2018.01.10-16.59.29:643][ 66]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-16.59.29:646][ 66]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-11.59.29
+[2018.01.10-16.59.29:646][ 66]LogWorld: Bringing up level for play took: 0.002601
+[2018.01.10-16.59.29:647][ 66]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 0.35
+[2018.01.10-16.59.29:648][ 66]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-16.59.41:984][563]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-16.59.42:074][563]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.02.28:872][340]LogEditorTransaction: Undo Add Node
+[2018.01.10-17.04.01:799][ 20]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-17.04.56:507][212]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-17.04.59:040][281]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-17.04.59:117][281]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.04.59:118][281]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-17.04.59:118][281]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 7:04:59 AM)
+[2018.01.10-17.04.59:119][281]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-17.04.59:147][281]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028323s)
+[2018.01.10-17.04.59:150][281]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-17.04.59:151][281]LogPlayLevel: PIE: World Init took: (0.003370s)
+[2018.01.10-17.04.59:151][281]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.032638s)
+[2018.01.10-17.04.59:250][281]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-17.04.59:419][281]LogInit: FAudioDevice initialized.
+[2018.01.10-17.04.59:449][281]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-17.04.59:453][281]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-12.04.59
+[2018.01.10-17.04.59:453][281]LogWorld: Bringing up level for play took: 0.002645
+[2018.01.10-17.04.59:454][281]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 0.157
+[2018.01.10-17.04.59:455][281]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.02:407][400]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.02:527][400]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.03:729][440]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-17.05.03:757][440]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.03:758][440]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-17.05.03:758][440]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 7:05:03 AM)
+[2018.01.10-17.05.03:759][440]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-17.05.03:789][440]LogPlayLevel: PIE: StaticDuplicateObject took: (0.029760s)
+[2018.01.10-17.05.03:792][440]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-17.05.03:792][440]LogPlayLevel: PIE: World Init took: (0.003498s)
+[2018.01.10-17.05.03:794][440]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.034751s)
+[2018.01.10-17.05.03:874][440]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-17.05.04:032][440]LogInit: FAudioDevice initialized.
+[2018.01.10-17.05.04:065][440]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-17.05.04:067][440]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-12.05.04
+[2018.01.10-17.05.04:068][440]LogWorld: Bringing up level for play took: 0.002502
+[2018.01.10-17.05.04:069][440]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 0.772
+[2018.01.10-17.05.04:070][440]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.09:339][661]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.05.09:431][661]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-17.06.16:536][263]LogSavePackage: Save=459.10ms
+[2018.01.10-17.06.16:536][263]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/PlayerMovementTestLevel_Auto932ED488B4F0AEBFA106B5B99F8840371.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto9.umap'
+[2018.01.10-17.06.16:541][263]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto9.umap
+[2018.01.10-17.06.16:545][263]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel' took 0.523
+[2018.01.10-17.06.16:545][263]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.523
+[2018.01.10-17.06.16:550][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.01.10-17.06.16:580][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.01.10-17.06.16:580][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.01.10-17.06.16:758][263]LogSavePackage: Save=165.68ms
+[2018.01.10-17.06.16:758][263]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/SideScrollerCharacter_Auto94409566840832D6E2B4AD7B6DE6B8A7F.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto9.uasset'
+[2018.01.10-17.06.16:762][263]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto9.uasset
+[2018.01.10-17.06.16:762][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Grease] ([1] browsable assets)...
+[2018.01.10-17.06.16:785][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Grease.Grease]
+[2018.01.10-17.06.16:785][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Grease]
+[2018.01.10-17.06.16:815][263]LogSavePackage: Save=23.52ms
+[2018.01.10-17.06.16:815][263]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Grease_Auto94358FBE24E838C5F84657EB19F6DBC3C.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Grease_Auto9.uasset'
+[2018.01.10-17.06.16:820][263]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Grease_Auto9.uasset
+[2018.01.10-17.06.16:820][263]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/IceGround] ([1] browsable assets)...
+[2018.01.10-17.06.16:844][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/IceGround.IceGround]
+[2018.01.10-17.06.16:844][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/IceGround]
+[2018.01.10-17.06.16:873][263]LogSavePackage: Save=23.42ms
+[2018.01.10-17.06.16:873][263]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/IceGround_Auto976A04B854669FE1075FD63A276E16097.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/IceGround_Auto9.uasset'
+[2018.01.10-17.06.16:877][263]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/IceGround_Auto9.uasset
+[2018.01.10-17.06.16:877][263]LogFileHelpers: Auto-saving content packages took 0.329
+[2018.01.10-18.18.18:674][ 56]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.18.25:933][315]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-18.18.26:044][315]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.18.26:044][315]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-18.18.26:044][315]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 8:18:26 AM)
+[2018.01.10-18.18.26:045][315]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-18.18.26:121][315]LogPlayLevel: PIE: StaticDuplicateObject took: (0.076466s)
+[2018.01.10-18.18.26:123][315]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-18.18.26:124][315]LogPlayLevel: PIE: World Init took: (0.002324s)
+[2018.01.10-18.18.26:124][315]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.079486s)
+[2018.01.10-18.18.26:211][315]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-18.18.26:482][315]LogInit: FAudioDevice initialized.
+[2018.01.10-18.18.26:516][315]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-18.18.26:520][315]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-13.18.26
+[2018.01.10-18.18.26:521][315]LogWorld: Bringing up level for play took: 0.002970
+[2018.01.10-18.18.26:522][315]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 1.225
+[2018.01.10-18.18.26:523][315]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.18.37:535][760]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.18.37:628][760]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.23:111][622]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.19.25:731][702]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-18.19.25:824][702]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.25:824][702]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-18.19.25:824][702]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 8:19:25 AM)
+[2018.01.10-18.19.25:825][702]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-18.19.25:852][702]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026898s)
+[2018.01.10-18.19.25:853][702]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-18.19.25:853][702]LogPlayLevel: PIE: World Init took: (0.001298s)
+[2018.01.10-18.19.25:853][702]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.028758s)
+[2018.01.10-18.19.25:928][702]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-18.19.26:142][702]LogInit: FAudioDevice initialized.
+[2018.01.10-18.19.26:174][702]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-18.19.26:177][702]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-13.19.26
+[2018.01.10-18.19.26:177][702]LogWorld: Bringing up level for play took: 0.002595
+[2018.01.10-18.19.26:178][702]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 0.881
+[2018.01.10-18.19.26:179][702]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.33:699][ 11]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.33:805][ 11]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.36:349][112]Cmd: TRANSACTION UNDO
+[2018.01.10-18.19.36:349][112]LogEditorTransaction: Undo Create Pin Link
+[2018.01.10-18.19.36:747][118]Cmd: TRANSACTION UNDO
+[2018.01.10-18.19.36:747][118]LogEditorTransaction: Undo Create Pin Link
+[2018.01.10-18.19.37:765][161]Cmd: TRANSACTION UNDO
+[2018.01.10-18.19.37:765][161]LogEditorTransaction: Undo Move Node
+[2018.01.10-18.19.38:750][196]Cmd: TRANSACTION UNDO
+[2018.01.10-18.19.38:750][196]LogEditorTransaction: Undo Create Pin Link
+[2018.01.10-18.19.39:364][214]Cmd: TRANSACTION UNDO
+[2018.01.10-18.19.39:364][214]LogEditorTransaction: Undo Delete current selection
+[2018.01.10-18.19.51:177][676]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.19.53:609][747]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-18.19.53:686][747]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.53:686][747]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-18.19.53:686][747]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 8:19:53 AM)
+[2018.01.10-18.19.53:687][747]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-18.19.53:718][747]LogPlayLevel: PIE: StaticDuplicateObject took: (0.031100s)
+[2018.01.10-18.19.53:719][747]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-18.19.53:720][747]LogPlayLevel: PIE: World Init took: (0.001086s)
+[2018.01.10-18.19.53:720][747]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.032860s)
+[2018.01.10-18.19.53:800][747]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-18.19.54:031][747]LogInit: FAudioDevice initialized.
+[2018.01.10-18.19.54:060][747]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-18.19.54:062][747]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-13.19.54
+[2018.01.10-18.19.54:063][747]LogWorld: Bringing up level for play took: 0.002210
+[2018.01.10-18.19.54:064][747]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 0.767
+[2018.01.10-18.19.54:064][747]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.57:119][866]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.19.57:226][866]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.20.07:272][261]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.20.10:592][367]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.01.10-18.20.12:454][437]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-18.20.12:528][437]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.20.12:528][437]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-18.20.12:529][437]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 8:20:12 AM)
+[2018.01.10-18.20.12:529][437]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-18.20.12:552][437]LogPlayLevel: PIE: StaticDuplicateObject took: (0.023271s)
+[2018.01.10-18.20.12:553][437]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-18.20.12:554][437]LogPlayLevel: PIE: World Init took: (0.001214s)
+[2018.01.10-18.20.12:554][437]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.025175s)
+[2018.01.10-18.20.12:629][437]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-18.20.12:844][437]LogInit: FAudioDevice initialized.
+[2018.01.10-18.20.12:875][437]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-18.20.12:878][437]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-13.20.12
+[2018.01.10-18.20.12:879][437]LogWorld: Bringing up level for play took: 0.002806
+[2018.01.10-18.20.12:880][437]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel -0.417
+[2018.01.10-18.20.12:881][437]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.20.21:127][772]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.20.21:218][772]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.20.34:073][310]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.22.15:447][227]LogSavePackage: Save=1625.74ms
+[2018.01.10-18.22.15:447][227]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/PlayerMovementTestLevel_Auto0092B14A345788691B6CD43ABDE3F52CB.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto0.umap'
+[2018.01.10-18.22.15:453][227]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto0.umap
+[2018.01.10-18.22.15:483][227]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel' took 1.841
+[2018.01.10-18.22.15:485][227]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 1.841
+[2018.01.10-18.22.15:501][227]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.01.10-18.22.15:533][227]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.01.10-18.22.15:534][227]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.01.10-18.22.16:061][227]LogSavePackage: Save=500.53ms
+[2018.01.10-18.22.16:062][227]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/SideScrollerCharacter_Auto08A3B09BC4B343512CCE9E1A6F50AB293.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto0.uasset'
+[2018.01.10-18.22.16:071][227]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto0.uasset
+[2018.01.10-18.22.16:071][227]LogFileHelpers: Auto-saving content packages took 0.576
+[2018.01.10-18.23.21:424][423]LogEditorViewport: Clicking on Actor (LMB): Grease_C (Grease)
+[2018.01.10-18.23.21:477][423]LogEditorViewport: Clicking on Actor (LMB): Grease_C (Grease)
+[2018.01.10-18.26.13:531][ 41]BlueprintLog: New page: Compile Grease
+[2018.01.10-18.27.11:926][356]BlueprintLog: New page: Compile SideScrollerCharacter
+[2018.01.10-18.28.44:522][676]BlueprintLog: New page: Compile Grease
+[2018.01.10-18.28.54:156][970]LogTemp: Repeating last play command: Selected Viewport
+[2018.01.10-18.28.54:299][970]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.28.54:299][970]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.01.10-18.28.54:299][970]PIE: New page: PIE session: PlayerMovementTestLevel (Jan 10, 2018, 8:28:54 AM)
+[2018.01.10-18.28.54:300][970]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel
+[2018.01.10-18.28.54:331][970]LogPlayLevel: PIE: StaticDuplicateObject took: (0.030411s)
+[2018.01.10-18.28.54:332][970]LogAIModule: Creating AISystem for world PlayerMovementTestLevel
+[2018.01.10-18.28.54:333][970]LogPlayLevel: PIE: World Init took: (0.002265s)
+[2018.01.10-18.28.54:334][970]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel to /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel (0.033727s)
+[2018.01.10-18.28.54:419][970]LogInit: XAudio2 using 'Speakers (2- Realtek High Definition Audio)' : 6 channels at 48 kHz using 32 bits per sample (channel mask 0x3f)
+[2018.01.10-18.28.54:641][970]LogInit: FAudioDevice initialized.
+[2018.01.10-18.28.54:671][970]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.01.10-18.28.54:674][970]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel.PlayerMovementTestLevel up for play (max tick rate 60) at 2018.01.10-13.28.54
+[2018.01.10-18.28.54:674][970]LogWorld: Bringing up level for play took: 0.002388
+[2018.01.10-18.28.54:676][970]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_PlayerMovementTestLevel 1.378
+[2018.01.10-18.28.54:676][970]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.28.59:340][244]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.28.59:387][244]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel' with GeneratedClass '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel.PlayerMovementTestLevel:PersistentLevel.PlayerMovementTestLevel'
+[2018.01.10-18.32.22:356][806]LogSavePackage: Save=597.15ms
+[2018.01.10-18.32.22:356][806]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/PlayerMovementTestLevel_Auto1540F70E54A350A533B3942A40E1E17EF.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto1.umap'
+[2018.01.10-18.32.22:365][806]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Maps/PlayerMovementTestLevel_Auto1.umap
+[2018.01.10-18.32.22:373][806]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/PlayerMovementTestLevel' took 0.706
+[2018.01.10-18.32.22:373][806]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.706
+[2018.01.10-18.32.22:378][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter] ([1] browsable assets)...
+[2018.01.10-18.32.22:405][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/SideScrollerCharacter.SideScrollerCharacter]
+[2018.01.10-18.32.22:405][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/SideScrollerCharacter]
+[2018.01.10-18.32.22:609][806]LogSavePackage: Save=188.96ms
+[2018.01.10-18.32.22:609][806]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/SideScrollerCharacter_Auto12684D07541EBE68B45B13A81DB53ED33.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset'
+[2018.01.10-18.32.22:616][806]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/SideScrollerCharacter_Auto1.uasset
+[2018.01.10-18.32.22:617][806]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/Blueprints/Grease] ([1] browsable assets)...
+[2018.01.10-18.32.22:649][806]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/SideScrollerBP/Blueprints/Grease.Grease]
+[2018.01.10-18.32.22:649][806]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/Blueprints/Grease]
+[2018.01.10-18.32.22:717][806]LogSavePackage: Save=60.94ms
+[2018.01.10-18.32.22:717][806]LogSavePackage: Moving 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Grease_Auto10123B1E548CED138AADC0FA5BED8D742.tmp' to 'C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Grease_Auto1.uasset'
+[2018.01.10-18.32.22:725][806]LogSavePackage: Display: Finished SavePackage C:/Users/Andrew/Desktop/Bergerstman/Bergerstman/Saved/Autosaves/Game/SideScrollerBP/Blueprints/Grease_Auto1.uasset
+[2018.01.10-18.32.22:725][806]LogFileHelpers: Auto-saving content packages took 0.349
+[2018.01.10-18.34.32:814][197]BlueprintLog: New page: Compile Grease
